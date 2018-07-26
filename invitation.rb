@@ -6,4 +6,4 @@ date = "October 31"
 time = "6pm"
 host_name = "Harry Potter"
 
-puts "Dear #{guest_name}, You are cor"
+puts "Dear #{guest_name}, You are cordially invited to the "
